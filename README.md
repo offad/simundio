@@ -1,2 +1,2 @@
 # eat-femi
-sprug
+thoughts, memories, and sprug
