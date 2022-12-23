@@ -1,5 +1,5 @@
-# eat-femi
+# simundio
 
-thoughts, memories, and **sprug** of Oluwanifemi David Fadare
+My thoughts, memories, and **feelings**.
 
 I plan to do something with this : )
